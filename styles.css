@@ -3,4 +3,65 @@
 }
 
 /* write rules below */
+.padded{
+    padding: 20px;
+}
 
+.spaced{
+    margin: 20px;
+}
+
+.has-border{
+    border: 3px solid black;
+}
+
+.fixed-width{
+    width: 300px;
+}
+
+#hero-box{
+    height: 200px;
+    padding: 40px;
+    border: 5px solid navy;
+}
+
+.img-box{
+    border: 30px;
+    margin: 30px;
+}
+
+.content-block{
+    width: 45px;
+    padding: 15px;
+}
+
+.section-gap{
+    margin: 35px;
+}
+
+.grass{
+    border: 40px;
+    padding: 10px;
+    height: 15px;
+}
+
+#duck{
+    width: 200px;
+    padding: 100px;
+    margin: 35;
+}
+
+.chair{
+    width: 50px;
+    padding: 25px;
+}
+
+.stool{
+    width: 25px;
+    padding: 5px;
+}
+
+#table{
+    width: 300px;
+    padding: 200px;
+}
